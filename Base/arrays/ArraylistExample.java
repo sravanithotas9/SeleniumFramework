@@ -40,6 +40,7 @@ public class ArraylistExample {
                 
             }
             System.out.println (list);
+            //gjhgjhkgjhghjgjhgjh
         }
 
 
