@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners>
+        <listener class-name="listners_Concept.Listeners"></listener>
+
+    </listeners>
+    <test thread-count="3" parallel="methods" name="TestModule">
+        <!--if we change thread count the execution of methods will change from 3 to 2-->
+        <!--2 method will start in parallel according to thread count and 3rd method will start in serial after started
+        of 2 parallel the 3rd will start-->
+        <classes>
+            <class name="listners_Concept.Qtest"/>
+
+        </classes>
+
+    </test>
+    <test thread-count="7" parallel="methods" name="TestModule2">
+
+    <classes>
+        <class name="gpack.Classfive"/>
+        <class name="gpack.Classfour"/>
+        <class name="gpack.Classsix"/>
+        <class name="spack.Classseven"/>
+        <class name="tpack.Classone"/>
+        <class name="tpack.Classthree"/>
+        <class name="tpack.Classtwo"/>
+    </classes>
+    </test>
+</suite>
+

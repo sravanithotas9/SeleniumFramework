@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Payment">
+    <test thread-count="5" name="Netbanking">
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <include name="smile"/>
+            </run>
+        </groups>
+
+      <classes>
+            <class name="gpack.Classfive"/>
+            <class name="gpack.Classfour"/>
+            <class name="gpack.Classsix"/>
+            <class name="spack.Classseven"/>
+            <class name="tpack.Classone"/>
+           <class name="tpack.Classthree"/>
+           <class name="tpack.Classtwo"/>
+      </classes>
+    </test>
+
+</suite>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T14:53:38 PDT" name="Suite" finished-at="2023-07-12T14:53:38 PDT" duration-ms="127">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T14:53:38 PDT" name="Suitefile" finished-at="2023-07-12T14:53:38 PDT" duration-ms="127">
+      <class name="mavnPlug.OneTest">
+        <test-method signature="one()[pri:0, instance:mavnPlug.OneTest@6a192cfe]" started-at="2023-07-12T14:53:38 PDT" name="one" finished-at="2023-07-12T14:53:38 PDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+      </class> <!-- mavnPlug.OneTest -->
+      <class name="mavnPlug.TwoTest">
+        <test-method signature="two()[pri:0, instance:mavnPlug.TwoTest@55b7a4e0]" started-at="2023-07-12T14:53:38 PDT" name="two" finished-at="2023-07-12T14:53:38 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+      </class> <!-- mavnPlug.TwoTest -->
+    </test> <!-- Suitefile -->
+  </suite> <!-- Suite -->
+</testng-results>

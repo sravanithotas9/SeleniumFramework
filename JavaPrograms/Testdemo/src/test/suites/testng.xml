@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Payment">
+    <test thread-count="5" name="Netbanking">
+
+      <classes>
+            <class name="gpack.Classfive"/>
+            <class name="gpack.Classfour"/>
+            <class name="gpack.Classsix"/>
+            <class name="spack.Classseven"/>
+            <class name="tpack.Classone">
+                   <methods>
+                        <include name="testOne"/>
+                        <include name="testTen"/>
+                        <include name="testElev"/>
+                       <!--this is for @testmethods annotation testing all the methods in classone will execute-->
+                    </methods>
+            </class>
+
+        </classes>
+
+    </test>
+   <test thread-count="5" name="Debit/Credit">
+        <classes>
+            <class name="tpack.Classtwo">
+                    <methods>
+                        <exclude name="testTwe"/>
+                        <!--this is of exculding(leaving) testtwe method from class classtwo and
+                        remaining methods from classtwo will excute and print the output  -->
+                    </methods>
+            </class>
+           <class name="tpack.Classthree">
+               <methods>
+                   <include name="test.*"/>
+                   <!--this * is of having method name same with the first word and different
+                   with second word the give name as firstword(common)methodname .* then all the methods inside the classthree will execute-->
+               </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
+

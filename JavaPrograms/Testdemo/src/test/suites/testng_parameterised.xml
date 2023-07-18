@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite">
+
+    <test thread-count="5" name="Tester">
+        <parameter name="URL" value="http://omayo.blogspot.com/">
+
+        </parameter>
+        <classes>
+            <class name="gpack.Classfive"/>
+           <!-- <class name="gpack.Classfour"/>
+            <class name="gpack.Classsix"/>-->
+            <class name="spack.Classseven"/>
+           <!-- <class name="tpack.Classone"/>-->
+
+        </classes>
+    </test>
+    <test thread-count="5" name="Debit/Credit">
+        <parameter name="URL" value="https://tutorialsninja.com/demo/">
+
+        </parameter>
+        <classes>
+            <class name="tpack.Classtwo"/>
+          <!--  <class name="tpack.Classthree"/>-->
+
+        </classes>
+
+
+    </test>
+
+</suite>

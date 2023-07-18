@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test thread-count="5" name="Suitefile">
+        <classes>
+            <!--if we give 2 test instead og four & we click mvn test all the four will run without maven surefire plugin dependency-->
+            <!--so we have to add dependency of maven surefireplugin in pom.xml then click mvntest only two tests will run in testng.xml file-->
+            <class name="mavnPlug.OneTest"/>
+            <class name="mavnPlug.TwoTest"/>
+            <class name="mavnPlug.FourTest"/>
+            <class name="mavnPlug.FiveTest"/>
+
+
+
+        </classes>
+    </test>
+
+</suite>

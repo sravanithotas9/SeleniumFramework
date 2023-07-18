@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/assignments" isTestSource="false" packagePrefix="com.assignm" />
+      <sourceFolder url="file://$MODULE_DIR$/basic program 1" isTestSource="false" packagePrefix="com.srithi" />
+      <sourceFolder url="file://$MODULE_DIR$/basic programs" isTestSource="false" packagePrefix="com.sravani" />
+      <sourceFolder url="file://$MODULE_DIR$/binary search" isTestSource="false" packagePrefix="Com.binary" />
+      <sourceFolder url="file://$MODULE_DIR$/conditional loops" isTestSource="false" packagePrefix="Loops" />
+      <sourceFolder url="file://$MODULE_DIR$/linear search" isTestSource="false" packagePrefix="com.linear.search" />
+      <sourceFolder url="file://$MODULE_DIR$/operator" isTestSource="false" packagePrefix="com.sravani1" />
+      <sourceFolder url="file://$MODULE_DIR$/sorting" isTestSource="false" packagePrefix="Com.java" />
+      <sourceFolder url="file://$MODULE_DIR$/switch" isTestSource="false" packagePrefix="com.main1" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

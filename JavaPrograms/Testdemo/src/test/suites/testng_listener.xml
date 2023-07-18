@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners>
+        <listener class-name="listners_Concept.Listeners"></listener>
+        <!--this is used to take screenshot and print report logs-->
+        <!--if we want to perform this action like alert clickable for every webevents(automation code)-->
+        <!--this listerner implement override techinc is used mainly for evry webevent screenshot-->
+    </listeners>
+    <test thread-count="5" name="TestModule">
+        <classes>
+            <class name="listners_Concept.Qtest"/>
+
+
+        </classes>
+    </test> 
+    </suite>
+
