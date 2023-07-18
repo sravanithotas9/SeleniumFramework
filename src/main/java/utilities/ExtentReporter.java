@@ -18,7 +18,7 @@ public class ExtentReporter {
         extentReport = new ExtentReports ();
         extentReport.attachReporter ( reporter );
         extentReport.setSystemInfo ( "Operating System", "windows 10" );
-        extentReport.setSystemInfo ( "Tested By", "Arun Motoori" );
+        extentReport.setSystemInfo ( "Tested By", "test test" );
 
         return extentReport;
     }

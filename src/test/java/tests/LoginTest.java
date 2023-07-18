@@ -87,7 +87,7 @@ public class LoginTest extends Base {
     //if multiple user name we can use dataprovider instead of data properties
     @DataProvider
     public Object[][] getLoginData() {
-        Object[][] data = {{"arun.selenium132@gmail.com", "second@123"}, {"dummy@test.com", "second354"}};
+        Object[][] data = {{"test.selenium132@gmail.com", "second@123"}, {"dummy@test.com", "test1234"}};
         return data;
     }
 }
