@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5"    parallel="tests">
+    <listeners>
+        <listener class-name="listeners.Listeners"/>
+    </listeners>
+
+    <!--To execute all the test classess in parallel we have to copy test classess individual and to give thread count
+    to make the parallel execution fast-->
+
+    <test thread-count="5" name="HomeTest">
+        <classes>
+            <class name="tests.HomeTest">
+                <methods>
+                    <include name="verifyHome"/>
+                </methods>
+            </class>
+            <class name="tests.LoginTest">
+                <methods>
+                    <include name="login"/>
+                </methods>
+            </class>
+            <class name="tests.RegisterTest">
+                <methods>
+                    <include name="verifyRegistration"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
+        <!--actually registration.xml file is to run all the testcases or test classess at a time
+         to check testng reports for testng file execution
+         copy testng.xml from Google then re-write the class name according to our project
+         if we want to check the report go to
+         test-output
+         emailable-report.html
+         open in browser
+         chrome
+
+         create a suites folder under src/test/registration.xml file then run which class we want or which method we want by selecting the name
+           TestNG automation execution report file path : test-output/emailable-report.html
+           -->

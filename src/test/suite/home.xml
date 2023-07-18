@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="tests">
+    <listeners>
+        <listener class-name="listeners.Listeners"/>
+    </listeners>
+
+    <test thread-count="5" name="HomeTest">
+        <classes>
+            <class name="tests.HomeTest">
+                <methods>
+                    <include name="verifyHome"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

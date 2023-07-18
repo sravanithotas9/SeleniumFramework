@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="HomeTest(failed)">
+    <classes>
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="openApplication"/>
+          <include name="closure"/>
+          <include name="login" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.RegisterTest">
+        <methods>
+          <include name="verifyRegistration"/>
+          <include name="closure"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- tests.RegisterTest -->
+    </classes>
+  </test> <!-- HomeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

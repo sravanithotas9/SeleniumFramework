@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Properties>
+        <Property name="logPath">./logs</Property>
+        <Property name="rollingFileName">testlog</Property>
+        <Property name="consolePattern"> %d{DEFAULT} [%t] [%highlight{%-5level}] %c:%L:%F - %msg%n%throwable{short.lineNumber}</Property>
+        <Property name="rollingFilePattern">%d{DEFAULT} [%t] [%highlight{%-5level}] %c:%L:%F - %msg%n%throwable{short.lineNumber}</Property>
+    </Properties>
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="${consolePattern}" />
+        </Console>
+        <RollingFile name="rollingFile" fileName="${logPath}/${rollingFileName}.log" filePattern="${logPath}/${rollingFileName}_%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout
+                    pattern="${rollingFilePattern}" />
+            <Policies>
+                <!-- Causes a rollover if the log file is older than the current JVM's start time -->
+                <!-- <OnStartupTriggeringPolicy /> -->
+                <!-- Causes a rollover once the date/time pattern no longer applies to the active file -->
+                <!-- <TimeBasedTriggeringPolicy interval="1" modulate="true" /> -->
+                <SizeBasedTriggeringPolicy size="10 mb" />
+            </Policies>
+            <DefaultRolloverStrategy max="20"/>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="DEBUG" additivity="false">
+            <AppenderRef ref="console" />
+            <AppenderRef ref="rollingFile" />
+            <AppenderRef ref="htmlFileLogger" />
+        </Root>
+    </Loggers>
+</Configuration>

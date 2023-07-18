@@ -1,0 +1,229 @@
+2023-07-16 11:33:17,761 [TestNG-tests-1] [DEBUG] tests.HomeTest:55:HomeTest.java - Browser got Launched
+2023-07-16 11:33:19,890 [TestNG-tests-1] [DEBUG] tests.HomeTest:58:HomeTest.java - Navigated to Application URL
+2023-07-16 11:33:20,337 [TestNG-tests-1] [DEBUG] tests.HomeTest:25:HomeTest.java - iphone Entered
+2023-07-16 11:33:20,976 [TestNG-tests-1] [DEBUG] tests.HomeTest:27:HomeTest.java - Clicked on amplifier Button
+2023-07-16 11:33:22,048 [TestNG-tests-1] [DEBUG] tests.HomeTest:31:HomeTest.java - iphoneImg Entered
+2023-07-16 11:33:22,162 [TestNG-tests-1] [DEBUG] tests.HomeTest:35:HomeTest.java - Email Address got Entered
+2023-07-16 11:33:22,275 [TestNG-tests-1] [DEBUG] tests.HomeTest:37:HomeTest.java - Clicked on item Button
+2023-07-16 11:33:23,765 [TestNG-tests-1] [DEBUG] tests.HomeTest:39:HomeTest.java - Clicked on checkout Button
+2023-07-16 11:33:23,854 [TestNG-tests-1] [DEBUG] tests.HomeTest:43:HomeTest.java - shoppingCart is displayed
+2023-07-16 11:33:24,626 [TestNG-tests-1] [DEBUG] tests.HomeTest:45:HomeTest.java - Clicked on chechoutshop Button
+2023-07-16 11:33:25,169 [TestNG-tests-1] [DEBUG] tests.HomeTest:65:HomeTest.java - Browser got closed and end of the Execution
+2023-07-16 11:33:27,311 [TestNG-tests-1] [DEBUG] tests.LoginTest:29:LoginTest.java - Browser got Launched
+2023-07-16 11:33:29,460 [TestNG-tests-1] [DEBUG] tests.LoginTest:32:LoginTest.java - Navigated to Application URL
+2023-07-16 11:33:29,731 [TestNG-tests-1] [DEBUG] tests.LoginTest:42:LoginTest.java - Clicked on My Account Dropdown
+2023-07-16 11:33:30,333 [TestNG-tests-1] [DEBUG] tests.LoginTest:44:LoginTest.java - Clicked on Login Option
+2023-07-16 11:33:30,634 [TestNG-tests-1] [DEBUG] tests.LoginTest:52:LoginTest.java - Email Address got Entered
+2023-07-16 11:33:30,811 [TestNG-tests-1] [DEBUG] tests.LoginTest:54:LoginTest.java - Password got Entered
+2023-07-16 11:33:32,072 [TestNG-tests-1] [DEBUG] tests.LoginTest:56:LoginTest.java - Clicked on Login Button
+2023-07-16 11:33:32,143 [TestNG-tests-1] [INFO ] tests.LoginTest:67:LoginTest.java - Login Test Got Passed
+2023-07-16 11:33:32,619 [TestNG-tests-1] [DEBUG] tests.LoginTest:84:LoginTest.java - Browser got closed and end of the Execution
+2023-07-16 11:33:34,795 [TestNG-tests-1] [DEBUG] tests.LoginTest:29:LoginTest.java - Browser got Launched
+2023-07-16 11:33:36,934 [TestNG-tests-1] [DEBUG] tests.LoginTest:32:LoginTest.java - Navigated to Application URL
+2023-07-16 11:33:37,178 [TestNG-tests-1] [DEBUG] tests.LoginTest:42:LoginTest.java - Clicked on My Account Dropdown
+2023-07-16 11:33:37,731 [TestNG-tests-1] [DEBUG] tests.LoginTest:44:LoginTest.java - Clicked on Login Option
+2023-07-16 11:33:37,982 [TestNG-tests-1] [DEBUG] tests.LoginTest:52:LoginTest.java - Email Address got Entered
+2023-07-16 11:33:38,172 [TestNG-tests-1] [DEBUG] tests.LoginTest:54:LoginTest.java - Password got Entered
+2023-07-16 11:33:38,683 [TestNG-tests-1] [DEBUG] tests.LoginTest:56:LoginTest.java - Clicked on Login Button
+2023-07-16 11:33:49,160 [TestNG-tests-1] [DEBUG] tests.LoginTest:84:LoginTest.java - Browser got closed and end of the Execution
+2023-07-16 11:33:51,201 [TestNG-tests-1] [DEBUG] tests.RegisterTest:24:RegisterTest.java - Browser got Launched
+2023-07-16 11:33:53,385 [TestNG-tests-1] [DEBUG] tests.RegisterTest:26:RegisterTest.java - Navigated to Application URL
+2023-07-16 11:33:53,619 [TestNG-tests-1] [DEBUG] tests.RegisterTest:37:RegisterTest.java - Clicked on My Account Dropdown
+2023-07-16 11:33:54,418 [TestNG-tests-1] [DEBUG] tests.RegisterTest:39:RegisterTest.java - Clicked on Login Option
+2023-07-16 11:33:54,617 [TestNG-tests-1] [DEBUG] tests.RegisterTest:43:RegisterTest.java -  FirstName got Entered
+2023-07-16 11:33:54,830 [TestNG-tests-1] [DEBUG] tests.RegisterTest:45:RegisterTest.java -  LastName got Entered
+2023-07-16 11:33:55,064 [TestNG-tests-1] [DEBUG] tests.RegisterTest:47:RegisterTest.java - Email Address got Entered
+2023-07-16 11:33:55,225 [TestNG-tests-1] [DEBUG] tests.RegisterTest:49:RegisterTest.java - Telephone Number got Entered
+2023-07-16 11:33:55,402 [TestNG-tests-1] [DEBUG] tests.RegisterTest:51:RegisterTest.java - Password got Entered
+2023-07-16 11:33:55,586 [TestNG-tests-1] [DEBUG] tests.RegisterTest:53:RegisterTest.java - Password Confirm got Entered
+2023-07-16 11:33:55,720 [TestNG-tests-1] [DEBUG] tests.RegisterTest:55:RegisterTest.java - Clicked on Enable Button
+2023-07-16 11:33:56,259 [TestNG-tests-1] [DEBUG] tests.RegisterTest:57:RegisterTest.java - Clicked on  Continue Button
+2023-07-16 11:33:56,916 [TestNG-tests-1] [DEBUG] tests.RegisterTest:85:RegisterTest.java - Browser got closed and end of the Execution
+2023-07-16 11:35:23,179 [TestNG-tests-1] [DEBUG] io.netty.util.internal.ThreadLocalRandom:214:ThreadLocalRandom.java - -Dio.netty.initialSeedUniquifier: 0x0e2dab09e07cfa7b
+2023-07-16 11:35:23,433 [TestNG-tests-1] [DEBUG] tests.HomeTest:55:HomeTest.java - Browser got Launched
+2023-07-16 11:35:25,543 [TestNG-tests-1] [DEBUG] tests.HomeTest:58:HomeTest.java - Navigated to Application URL
+2023-07-16 11:35:26,021 [TestNG-tests-1] [DEBUG] tests.HomeTest:25:HomeTest.java - iphone Entered
+2023-07-16 11:35:26,651 [TestNG-tests-1] [DEBUG] tests.HomeTest:27:HomeTest.java - Clicked on amplifier Button
+2023-07-16 11:35:27,580 [TestNG-tests-1] [DEBUG] tests.HomeTest:31:HomeTest.java - iphoneImg Entered
+2023-07-16 11:35:27,702 [TestNG-tests-1] [DEBUG] tests.HomeTest:35:HomeTest.java - Email Address got Entered
+2023-07-16 11:35:27,822 [TestNG-tests-1] [DEBUG] tests.HomeTest:37:HomeTest.java - Clicked on item Button
+2023-07-16 11:35:28,946 [TestNG-tests-1] [DEBUG] tests.HomeTest:39:HomeTest.java - Clicked on checkout Button
+2023-07-16 11:35:29,056 [TestNG-tests-1] [DEBUG] tests.HomeTest:43:HomeTest.java - shoppingCart is displayed
+2023-07-16 11:35:29,843 [TestNG-tests-1] [DEBUG] tests.HomeTest:45:HomeTest.java - Clicked on chechoutshop Button
+2023-07-16 11:35:30,411 [TestNG-tests-1] [DEBUG] tests.HomeTest:65:HomeTest.java - Browser got closed and end of the Execution
+2023-07-16 11:35:32,671 [TestNG-tests-1] [DEBUG] tests.LoginTest:29:LoginTest.java - Browser got Launched
+2023-07-16 11:35:34,886 [TestNG-tests-1] [DEBUG] tests.LoginTest:32:LoginTest.java - Navigated to Application URL
+2023-07-16 11:35:35,144 [TestNG-tests-1] [DEBUG] tests.LoginTest:42:LoginTest.java - Clicked on My Account Dropdown
+2023-07-16 11:35:35,804 [TestNG-tests-1] [DEBUG] tests.LoginTest:44:LoginTest.java - Clicked on Login Option
+2023-07-16 11:35:36,110 [TestNG-tests-1] [DEBUG] tests.LoginTest:52:LoginTest.java - Email Address got Entered
+2023-07-16 11:35:36,291 [TestNG-tests-1] [DEBUG] tests.LoginTest:54:LoginTest.java - Password got Entered
+2023-07-16 11:35:36,941 [TestNG-tests-1] [DEBUG] tests.LoginTest:56:LoginTest.java - Clicked on Login Button
+2023-07-16 11:35:37,760 [TestNG-tests-1] [DEBUG] tests.LoginTest:84:LoginTest.java - Browser got closed and end of the Execution
+2023-07-16 11:35:39,969 [TestNG-tests-1] [DEBUG] tests.LoginTest:29:LoginTest.java - Browser got Launched
+2023-07-16 11:35:42,129 [TestNG-tests-1] [DEBUG] tests.LoginTest:32:LoginTest.java - Navigated to Application URL
+2023-07-16 11:35:42,372 [TestNG-tests-1] [DEBUG] tests.LoginTest:42:LoginTest.java - Clicked on My Account Dropdown
+2023-07-16 11:35:42,904 [TestNG-tests-1] [DEBUG] tests.LoginTest:44:LoginTest.java - Clicked on Login Option
+2023-07-16 11:35:43,177 [TestNG-tests-1] [DEBUG] tests.LoginTest:52:LoginTest.java - Email Address got Entered
+2023-07-16 11:35:43,357 [TestNG-tests-1] [DEBUG] tests.LoginTest:54:LoginTest.java - Password got Entered
+2023-07-16 11:35:43,785 [TestNG-tests-1] [DEBUG] tests.LoginTest:56:LoginTest.java - Clicked on Login Button
+2023-07-16 11:35:54,398 [TestNG-tests-1] [DEBUG] tests.LoginTest:84:LoginTest.java - Browser got closed and end of the Execution
+2023-07-16 11:35:56,773 [TestNG-tests-1] [DEBUG] tests.RegisterTest:24:RegisterTest.java - Browser got Launched
+2023-07-16 11:35:58,851 [TestNG-tests-1] [DEBUG] tests.RegisterTest:26:RegisterTest.java - Navigated to Application URL
+2023-07-16 11:35:59,032 [TestNG-tests-1] [DEBUG] tests.RegisterTest:37:RegisterTest.java - Clicked on My Account Dropdown
+2023-07-16 11:35:59,870 [TestNG-tests-1] [DEBUG] tests.RegisterTest:39:RegisterTest.java - Clicked on Login Option
+2023-07-16 11:36:00,115 [TestNG-tests-1] [DEBUG] tests.RegisterTest:43:RegisterTest.java -  FirstName got Entered
+2023-07-16 11:36:00,329 [TestNG-tests-1] [DEBUG] tests.RegisterTest:45:RegisterTest.java -  LastName got Entered
+2023-07-16 11:36:00,562 [TestNG-tests-1] [DEBUG] tests.RegisterTest:47:RegisterTest.java - Email Address got Entered
+2023-07-16 11:36:00,724 [TestNG-tests-1] [DEBUG] tests.RegisterTest:49:RegisterTest.java - Telephone Number got Entered
+2023-07-16 11:36:00,903 [TestNG-tests-1] [DEBUG] tests.RegisterTest:51:RegisterTest.java - Password got Entered
+2023-07-16 11:36:01,082 [TestNG-tests-1] [DEBUG] tests.RegisterTest:53:RegisterTest.java - Password Confirm got Entered
+2023-07-16 11:36:01,228 [TestNG-tests-1] [DEBUG] tests.RegisterTest:55:RegisterTest.java - Clicked on Enable Button
+2023-07-16 11:36:01,797 [TestNG-tests-1] [DEBUG] tests.RegisterTest:57:RegisterTest.java - Clicked on  Continue Button
+2023-07-16 11:36:02,379 [TestNG-tests-1] [DEBUG] tests.RegisterTest:85:RegisterTest.java - Browser got closed and end of the Execution
+2023-07-17 07:22:42,340 [TestNG-tests-1] [DEBUG] io.netty.util.internal.logging.InternalLoggerFactory:76:InternalLoggerFactory.java - Using Log4J2 as the default logging framework
+2023-07-17 07:22:42,365 [TestNG-tests-1] [DEBUG] io.netty.util.ResourceLeakDetector:129:ResourceLeakDetector.java - -Dio.netty.leakDetection.level: simple
+2023-07-17 07:22:42,366 [TestNG-tests-1] [DEBUG] io.netty.util.ResourceLeakDetector:130:ResourceLeakDetector.java - -Dio.netty.leakDetection.targetRecords: 4
+2023-07-17 07:22:42,376 [TestNG-tests-1] [DEBUG] io.netty.util.ResourceLeakDetectorFactory:196:ResourceLeakDetectorFactory.java - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6627ba2a
+2023-07-17 07:22:42,428 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:496:PlatformDependent0.java - -Dio.netty.noUnsafe: false
+2023-07-17 07:22:42,429 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:1000:PlatformDependent0.java - Java version: 18
+2023-07-17 07:22:42,433 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:137:PlatformDependent0.java - sun.misc.Unsafe.theUnsafe: available
+2023-07-17 07:22:42,436 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:161:PlatformDependent0.java - sun.misc.Unsafe.copyMemory: available
+2023-07-17 07:22:42,437 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:193:PlatformDependent0.java - sun.misc.Unsafe.storeFence: available
+2023-07-17 07:22:42,439 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:236:PlatformDependent0.java - java.nio.Buffer.address: available
+2023-07-17 07:22:42,441 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:320:PlatformDependent0.java - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2023-07-17 07:22:42,443 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:385:PlatformDependent0.java - java.nio.Bits.unaligned: available, true
+2023-07-17 07:22:42,446 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:452:PlatformDependent0.java - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @735b5592
+2023-07-17 07:22:42,448 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:482:PlatformDependent0.java - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+2023-07-17 07:22:42,448 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1159:PlatformDependent.java - sun.misc.Unsafe: available
+2023-07-17 07:22:42,450 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1270:PlatformDependent.java - maxDirectMemory: 4143972352 bytes (maybe)
+2023-07-17 07:22:42,452 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1289:PlatformDependent.java - -Dio.netty.tmpdir: C:\Users\Admin\AppData\Local\Temp (java.io.tmpdir)
+2023-07-17 07:22:42,452 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1368:PlatformDependent.java - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-07-17 07:22:42,453 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1119:PlatformDependent.java - Platform: Windows
+2023-07-17 07:22:42,456 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:178:PlatformDependent.java - -Dio.netty.maxDirectMemory: -1 bytes
+2023-07-17 07:22:42,457 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:185:PlatformDependent.java - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-07-17 07:22:42,460 [TestNG-tests-1] [DEBUG] io.netty.util.internal.CleanerJava9:71:CleanerJava9.java - java.nio.ByteBuffer.cleaner(): available
+2023-07-17 07:22:42,461 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:205:PlatformDependent.java - -Dio.netty.noPreferDirect: false
+2023-07-17 07:22:42,479 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1010:PlatformDependent.java - org.jctools-core.MpscChunkedArrayQueue: available
+2023-07-17 07:22:42,523 [TestNG-tests-1] [DEBUG] io.netty.util.internal.InternalThreadLocalMap:100:InternalThreadLocalMap.java - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-07-17 07:22:42,524 [TestNG-tests-1] [DEBUG] io.netty.util.internal.InternalThreadLocalMap:101:InternalThreadLocalMap.java - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-07-17 07:22:42,555 [TestNG-tests-1] [DEBUG] io.netty.handler.ssl.JdkSslContext:83:JdkSslContext.java - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2023-07-17 07:22:42,556 [TestNG-tests-1] [DEBUG] io.netty.handler.ssl.JdkSslContext:84:JdkSslContext.java - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2023-07-17 07:22:42,605 [TestNG-tests-1] [DEBUG] io.netty.util.concurrent.GlobalEventExecutor:53:GlobalEventExecutor.java - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2023-07-17 07:22:42,679 [TestNG-tests-1] [DEBUG] io.netty.channel.MultithreadEventLoopGroup:44:MultithreadEventLoopGroup.java - -Dio.netty.eventLoopThreads: 8
+2023-07-17 07:22:42,703 [TestNG-tests-1] [DEBUG] io.netty.channel.nio.NioEventLoop:110:NioEventLoop.java - -Dio.netty.noKeySetOptimization: false
+2023-07-17 07:22:42,704 [TestNG-tests-1] [DEBUG] io.netty.channel.nio.NioEventLoop:111:NioEventLoop.java - -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-07-17 07:22:42,793 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:157:PooledByteBufAllocator.java - -Dio.netty.allocator.numHeapArenas: 8
+2023-07-17 07:22:42,794 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:158:PooledByteBufAllocator.java - -Dio.netty.allocator.numDirectArenas: 8
+2023-07-17 07:22:42,795 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:160:PooledByteBufAllocator.java - -Dio.netty.allocator.pageSize: 8192
+2023-07-17 07:22:42,795 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:165:PooledByteBufAllocator.java - -Dio.netty.allocator.maxOrder: 9
+2023-07-17 07:22:42,796 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:169:PooledByteBufAllocator.java - -Dio.netty.allocator.chunkSize: 4194304
+2023-07-17 07:22:42,797 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:170:PooledByteBufAllocator.java - -Dio.netty.allocator.smallCacheSize: 256
+2023-07-17 07:22:42,798 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:171:PooledByteBufAllocator.java - -Dio.netty.allocator.normalCacheSize: 64
+2023-07-17 07:22:42,799 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:172:PooledByteBufAllocator.java - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-07-17 07:22:42,800 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:173:PooledByteBufAllocator.java - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-07-17 07:22:42,801 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:174:PooledByteBufAllocator.java - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-07-17 07:22:42,802 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:175:PooledByteBufAllocator.java - -Dio.netty.allocator.useCacheForAllThreads: false
+2023-07-17 07:22:42,803 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:176:PooledByteBufAllocator.java - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-07-17 07:22:42,836 [TestNG-tests-1] [DEBUG] io.netty.buffer.ByteBufUtil:88:ByteBufUtil.java - -Dio.netty.allocator.type: pooled
+2023-07-17 07:22:42,837 [TestNG-tests-1] [DEBUG] io.netty.buffer.ByteBufUtil:97:ByteBufUtil.java - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-07-17 07:22:42,842 [TestNG-tests-1] [DEBUG] io.netty.buffer.ByteBufUtil:100:ByteBufUtil.java - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-07-17 07:22:43,488 [Forwarding newSession on session null to remote] [DEBUG] io.netty.channel.DefaultChannelId:79:DefaultChannelId.java - -Dio.netty.processId: 10496 (auto-detected)
+2023-07-17 07:22:43,493 [Forwarding newSession on session null to remote] [DEBUG] io.netty.util.NetUtil:148:NetUtil.java - -Djava.net.preferIPv4Stack: false
+2023-07-17 07:22:43,493 [Forwarding newSession on session null to remote] [DEBUG] io.netty.util.NetUtil:149:NetUtil.java - -Djava.net.preferIPv6Addresses: false
+2023-07-17 07:22:43,511 [Forwarding newSession on session null to remote] [DEBUG] io.netty.util.NetUtilInitializations:145:NetUtilInitializations.java - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2023-07-17 07:22:43,514 [Forwarding newSession on session null to remote] [DEBUG] io.netty.util.NetUtil:206:NetUtil.java - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2023-07-17 07:22:43,544 [Forwarding newSession on session null to remote] [DEBUG] io.netty.channel.DefaultChannelId:101:DefaultChannelId.java - -Dio.netty.machineId: 90:de:80:ff:fe:23:b1:2b (auto-detected)
+2023-07-17 07:22:43,646 [AsyncHttpClient-1-2] [DEBUG] io.netty.buffer.AbstractByteBuf:63:AbstractByteBuf.java - -Dio.netty.buffer.checkAccessible: true
+2023-07-17 07:22:43,647 [AsyncHttpClient-1-2] [DEBUG] io.netty.buffer.AbstractByteBuf:64:AbstractByteBuf.java - -Dio.netty.buffer.checkBounds: true
+2023-07-17 07:22:43,648 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.ResourceLeakDetectorFactory:196:ResourceLeakDetectorFactory.java - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5b9664ba
+2023-07-17 07:22:43,710 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:96:Recycler.java - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-07-17 07:22:43,711 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:97:Recycler.java - -Dio.netty.recycler.ratio: 8
+2023-07-17 07:22:43,713 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:98:Recycler.java - -Dio.netty.recycler.chunkSize: 32
+2023-07-17 07:22:43,715 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:99:Recycler.java - -Dio.netty.recycler.blocking: false
+2023-07-17 07:22:43,716 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:100:Recycler.java - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2023-07-17 07:22:45,241 [AsyncHttpClient-1-2] [DEBUG] io.netty.handler.codec.compression.Brotli:38:Brotli.java - brotli4j not in the classpath; Brotli support will be unavailable.
+2023-07-17 07:22:45,663 [TestNG-tests-1] [DEBUG] io.netty.util.internal.ThreadLocalRandom:214:ThreadLocalRandom.java - -Dio.netty.initialSeedUniquifier: 0x48ec076a01be7430
+2023-07-17 07:22:45,971 [TestNG-tests-1] [DEBUG] tests.HomeTest:55:HomeTest.java - Browser got Launched
+2023-07-17 07:22:52,581 [TestNG-tests-1] [DEBUG] tests.HomeTest:58:HomeTest.java - Navigated to Application URL
+2023-07-17 07:22:52,956 [TestNG-tests-1] [DEBUG] tests.HomeTest:25:HomeTest.java - iphone Entered
+2023-07-17 07:22:53,987 [TestNG-tests-1] [DEBUG] tests.HomeTest:27:HomeTest.java - Clicked on amplifier Button
+2023-07-17 07:22:59,648 [TestNG-tests-1] [DEBUG] tests.HomeTest:31:HomeTest.java - iphoneImg Entered
+2023-07-17 07:22:59,795 [TestNG-tests-1] [DEBUG] tests.HomeTest:35:HomeTest.java - Email Address got Entered
+2023-07-17 07:22:59,926 [TestNG-tests-1] [DEBUG] tests.HomeTest:37:HomeTest.java - Clicked on item Button
+2023-07-17 07:23:01,201 [TestNG-tests-1] [DEBUG] tests.HomeTest:39:HomeTest.java - Clicked on checkout Button
+2023-07-17 07:23:01,434 [TestNG-tests-1] [DEBUG] tests.HomeTest:43:HomeTest.java - shoppingCart is displayed
+2023-07-17 07:23:05,934 [TestNG-tests-1] [DEBUG] tests.HomeTest:45:HomeTest.java - Clicked on checkoutshop Button
+2023-07-17 11:52:17,471 [TestNG-tests-1] [DEBUG] io.netty.util.internal.logging.InternalLoggerFactory:76:InternalLoggerFactory.java - Using Log4J2 as the default logging framework
+2023-07-17 11:52:17,493 [TestNG-tests-1] [DEBUG] io.netty.util.ResourceLeakDetector:129:ResourceLeakDetector.java - -Dio.netty.leakDetection.level: simple
+2023-07-17 11:52:17,497 [TestNG-tests-1] [DEBUG] io.netty.util.ResourceLeakDetector:130:ResourceLeakDetector.java - -Dio.netty.leakDetection.targetRecords: 4
+2023-07-17 11:52:17,505 [TestNG-tests-1] [DEBUG] io.netty.util.ResourceLeakDetectorFactory:196:ResourceLeakDetectorFactory.java - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3e5ac340
+2023-07-17 11:52:17,554 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:496:PlatformDependent0.java - -Dio.netty.noUnsafe: false
+2023-07-17 11:52:17,556 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:1000:PlatformDependent0.java - Java version: 18
+2023-07-17 11:52:17,559 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:137:PlatformDependent0.java - sun.misc.Unsafe.theUnsafe: available
+2023-07-17 11:52:17,560 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:161:PlatformDependent0.java - sun.misc.Unsafe.copyMemory: available
+2023-07-17 11:52:17,562 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:193:PlatformDependent0.java - sun.misc.Unsafe.storeFence: available
+2023-07-17 11:52:17,564 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:236:PlatformDependent0.java - java.nio.Buffer.address: available
+2023-07-17 11:52:17,566 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:320:PlatformDependent0.java - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2023-07-17 11:52:17,568 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:385:PlatformDependent0.java - java.nio.Bits.unaligned: available, true
+2023-07-17 11:52:17,570 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:452:PlatformDependent0.java - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @6d00a15d
+2023-07-17 11:52:17,572 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent0:482:PlatformDependent0.java - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+2023-07-17 11:52:17,573 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1159:PlatformDependent.java - sun.misc.Unsafe: available
+2023-07-17 11:52:17,575 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1270:PlatformDependent.java - maxDirectMemory: 4143972352 bytes (maybe)
+2023-07-17 11:52:17,576 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1289:PlatformDependent.java - -Dio.netty.tmpdir: C:\Users\Admin\AppData\Local\Temp (java.io.tmpdir)
+2023-07-17 11:52:17,577 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1368:PlatformDependent.java - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-07-17 11:52:17,578 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1119:PlatformDependent.java - Platform: Windows
+2023-07-17 11:52:17,581 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:178:PlatformDependent.java - -Dio.netty.maxDirectMemory: -1 bytes
+2023-07-17 11:52:17,582 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:185:PlatformDependent.java - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-07-17 11:52:17,586 [TestNG-tests-1] [DEBUG] io.netty.util.internal.CleanerJava9:71:CleanerJava9.java - java.nio.ByteBuffer.cleaner(): available
+2023-07-17 11:52:17,587 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:205:PlatformDependent.java - -Dio.netty.noPreferDirect: false
+2023-07-17 11:52:17,612 [TestNG-tests-1] [DEBUG] io.netty.util.internal.PlatformDependent:1010:PlatformDependent.java - org.jctools-core.MpscChunkedArrayQueue: available
+2023-07-17 11:52:17,653 [TestNG-tests-1] [DEBUG] io.netty.util.internal.InternalThreadLocalMap:100:InternalThreadLocalMap.java - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-07-17 11:52:17,653 [TestNG-tests-1] [DEBUG] io.netty.util.internal.InternalThreadLocalMap:101:InternalThreadLocalMap.java - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-07-17 11:52:17,680 [TestNG-tests-1] [DEBUG] io.netty.handler.ssl.JdkSslContext:83:JdkSslContext.java - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2023-07-17 11:52:17,681 [TestNG-tests-1] [DEBUG] io.netty.handler.ssl.JdkSslContext:84:JdkSslContext.java - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2023-07-17 11:52:17,716 [TestNG-tests-1] [DEBUG] io.netty.util.concurrent.GlobalEventExecutor:53:GlobalEventExecutor.java - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2023-07-17 11:52:17,772 [TestNG-tests-1] [DEBUG] io.netty.channel.MultithreadEventLoopGroup:44:MultithreadEventLoopGroup.java - -Dio.netty.eventLoopThreads: 8
+2023-07-17 11:52:17,806 [TestNG-tests-1] [DEBUG] io.netty.channel.nio.NioEventLoop:110:NioEventLoop.java - -Dio.netty.noKeySetOptimization: false
+2023-07-17 11:52:17,807 [TestNG-tests-1] [DEBUG] io.netty.channel.nio.NioEventLoop:111:NioEventLoop.java - -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-07-17 11:52:17,896 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:157:PooledByteBufAllocator.java - -Dio.netty.allocator.numHeapArenas: 8
+2023-07-17 11:52:17,897 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:158:PooledByteBufAllocator.java - -Dio.netty.allocator.numDirectArenas: 8
+2023-07-17 11:52:17,898 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:160:PooledByteBufAllocator.java - -Dio.netty.allocator.pageSize: 8192
+2023-07-17 11:52:17,899 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:165:PooledByteBufAllocator.java - -Dio.netty.allocator.maxOrder: 9
+2023-07-17 11:52:17,900 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:169:PooledByteBufAllocator.java - -Dio.netty.allocator.chunkSize: 4194304
+2023-07-17 11:52:17,901 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:170:PooledByteBufAllocator.java - -Dio.netty.allocator.smallCacheSize: 256
+2023-07-17 11:52:17,901 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:171:PooledByteBufAllocator.java - -Dio.netty.allocator.normalCacheSize: 64
+2023-07-17 11:52:17,902 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:172:PooledByteBufAllocator.java - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-07-17 11:52:17,903 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:173:PooledByteBufAllocator.java - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-07-17 11:52:17,903 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:174:PooledByteBufAllocator.java - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-07-17 11:52:17,904 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:175:PooledByteBufAllocator.java - -Dio.netty.allocator.useCacheForAllThreads: false
+2023-07-17 11:52:17,905 [TestNG-tests-1] [DEBUG] io.netty.buffer.PooledByteBufAllocator:176:PooledByteBufAllocator.java - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-07-17 11:52:17,938 [TestNG-tests-1] [DEBUG] io.netty.buffer.ByteBufUtil:88:ByteBufUtil.java - -Dio.netty.allocator.type: pooled
+2023-07-17 11:52:17,939 [TestNG-tests-1] [DEBUG] io.netty.buffer.ByteBufUtil:97:ByteBufUtil.java - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-07-17 11:52:17,940 [TestNG-tests-1] [DEBUG] io.netty.buffer.ByteBufUtil:100:ByteBufUtil.java - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-07-17 11:52:18,656 [Forwarding newSession on session null to remote] [DEBUG] io.netty.channel.DefaultChannelId:79:DefaultChannelId.java - -Dio.netty.processId: 22376 (auto-detected)
+2023-07-17 11:52:18,660 [Forwarding newSession on session null to remote] [DEBUG] io.netty.util.NetUtil:148:NetUtil.java - -Djava.net.preferIPv4Stack: false
+2023-07-17 11:52:18,660 [Forwarding newSession on session null to remote] [DEBUG] io.netty.util.NetUtil:149:NetUtil.java - -Djava.net.preferIPv6Addresses: false
+2023-07-17 11:52:18,678 [Forwarding newSession on session null to remote] [DEBUG] io.netty.util.NetUtilInitializations:145:NetUtilInitializations.java - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2023-07-17 11:52:18,681 [Forwarding newSession on session null to remote] [DEBUG] io.netty.util.NetUtil:206:NetUtil.java - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2023-07-17 11:52:18,709 [Forwarding newSession on session null to remote] [DEBUG] io.netty.channel.DefaultChannelId:101:DefaultChannelId.java - -Dio.netty.machineId: 90:de:80:ff:fe:23:b1:2b (auto-detected)
+2023-07-17 11:52:18,797 [AsyncHttpClient-1-2] [DEBUG] io.netty.buffer.AbstractByteBuf:63:AbstractByteBuf.java - -Dio.netty.buffer.checkAccessible: true
+2023-07-17 11:52:18,798 [AsyncHttpClient-1-2] [DEBUG] io.netty.buffer.AbstractByteBuf:64:AbstractByteBuf.java - -Dio.netty.buffer.checkBounds: true
+2023-07-17 11:52:18,799 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.ResourceLeakDetectorFactory:196:ResourceLeakDetectorFactory.java - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2fd03546
+2023-07-17 11:52:18,851 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:96:Recycler.java - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-07-17 11:52:18,851 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:97:Recycler.java - -Dio.netty.recycler.ratio: 8
+2023-07-17 11:52:18,852 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:98:Recycler.java - -Dio.netty.recycler.chunkSize: 32
+2023-07-17 11:52:18,853 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:99:Recycler.java - -Dio.netty.recycler.blocking: false
+2023-07-17 11:52:18,854 [AsyncHttpClient-1-2] [DEBUG] io.netty.util.Recycler:100:Recycler.java - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2023-07-17 11:52:20,264 [AsyncHttpClient-1-2] [DEBUG] io.netty.handler.codec.compression.Brotli:38:Brotli.java - brotli4j not in the classpath; Brotli support will be unavailable.
+2023-07-17 11:52:20,461 [TestNG-tests-1] [DEBUG] io.netty.util.internal.ThreadLocalRandom:214:ThreadLocalRandom.java - -Dio.netty.initialSeedUniquifier: 0xdd7a074acc4eb8e1
+2023-07-17 11:52:20,703 [TestNG-tests-1] [DEBUG] tests.HomeTest:55:HomeTest.java - Browser got Launched
+2023-07-17 11:52:22,879 [TestNG-tests-1] [DEBUG] tests.HomeTest:58:HomeTest.java - Navigated to Application URL
+2023-07-17 11:52:23,368 [TestNG-tests-1] [DEBUG] tests.HomeTest:25:HomeTest.java - iphone Entered
+2023-07-17 11:52:23,977 [TestNG-tests-1] [DEBUG] tests.HomeTest:27:HomeTest.java - Clicked on amplifier Button
+2023-07-17 11:52:25,025 [TestNG-tests-1] [DEBUG] tests.HomeTest:31:HomeTest.java - iphoneImg Entered
+2023-07-17 11:52:25,169 [TestNG-tests-1] [DEBUG] tests.HomeTest:35:HomeTest.java - Email Address got Entered
+2023-07-17 11:52:25,295 [TestNG-tests-1] [DEBUG] tests.HomeTest:37:HomeTest.java - Clicked on item Button
+2023-07-17 11:52:26,446 [TestNG-tests-1] [DEBUG] tests.HomeTest:39:HomeTest.java - Clicked on checkout Button
+2023-07-17 11:52:26,550 [TestNG-tests-1] [DEBUG] tests.HomeTest:43:HomeTest.java - shoppingCart is displayed
+2023-07-17 11:52:27,346 [TestNG-tests-1] [DEBUG] tests.HomeTest:45:HomeTest.java - Clicked on checkoutshop Button
+2023-07-17 11:52:27,951 [TestNG-tests-1] [DEBUG] tests.HomeTest:65:HomeTest.java - Browser got closed and end of the Execution
